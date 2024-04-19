@@ -1,0 +1,14 @@
+C:\Users\ritik.k_7767\Desktop\Assignments\dot net web\DesignPatternAssignmnet\DesignPatternAssignmnet\bin\Debug\net8.0\DesignPatternAssignmnet.exe
+C:\Users\ritik.k_7767\Desktop\Assignments\dot net web\DesignPatternAssignmnet\DesignPatternAssignmnet\bin\Debug\net8.0\DesignPatternAssignmnet.deps.json
+C:\Users\ritik.k_7767\Desktop\Assignments\dot net web\DesignPatternAssignmnet\DesignPatternAssignmnet\bin\Debug\net8.0\DesignPatternAssignmnet.runtimeconfig.json
+C:\Users\ritik.k_7767\Desktop\Assignments\dot net web\DesignPatternAssignmnet\DesignPatternAssignmnet\bin\Debug\net8.0\DesignPatternAssignmnet.dll
+C:\Users\ritik.k_7767\Desktop\Assignments\dot net web\DesignPatternAssignmnet\DesignPatternAssignmnet\bin\Debug\net8.0\DesignPatternAssignmnet.pdb
+C:\Users\ritik.k_7767\Desktop\Assignments\dot net web\DesignPatternAssignmnet\DesignPatternAssignmnet\obj\Debug\net8.0\DesignPatternAssignmnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritik.k_7767\Desktop\Assignments\dot net web\DesignPatternAssignmnet\DesignPatternAssignmnet\obj\Debug\net8.0\DesignPatternAssignmnet.AssemblyInfoInputs.cache
+C:\Users\ritik.k_7767\Desktop\Assignments\dot net web\DesignPatternAssignmnet\DesignPatternAssignmnet\obj\Debug\net8.0\DesignPatternAssignmnet.AssemblyInfo.cs
+C:\Users\ritik.k_7767\Desktop\Assignments\dot net web\DesignPatternAssignmnet\DesignPatternAssignmnet\obj\Debug\net8.0\DesignPatternAssignmnet.csproj.CoreCompileInputs.cache
+C:\Users\ritik.k_7767\Desktop\Assignments\dot net web\DesignPatternAssignmnet\DesignPatternAssignmnet\obj\Debug\net8.0\DesignPatternAssignmnet.dll
+C:\Users\ritik.k_7767\Desktop\Assignments\dot net web\DesignPatternAssignmnet\DesignPatternAssignmnet\obj\Debug\net8.0\refint\DesignPatternAssignmnet.dll
+C:\Users\ritik.k_7767\Desktop\Assignments\dot net web\DesignPatternAssignmnet\DesignPatternAssignmnet\obj\Debug\net8.0\DesignPatternAssignmnet.pdb
+C:\Users\ritik.k_7767\Desktop\Assignments\dot net web\DesignPatternAssignmnet\DesignPatternAssignmnet\obj\Debug\net8.0\DesignPatternAssignmnet.genruntimeconfig.cache
+C:\Users\ritik.k_7767\Desktop\Assignments\dot net web\DesignPatternAssignmnet\DesignPatternAssignmnet\obj\Debug\net8.0\ref\DesignPatternAssignmnet.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\DesignPatternAssignmnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6ACCD0-EF25-49EF-868C-27EE8EAB5746}|DesignPatternAssignmnet\\DesignPatternAssignmnet.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\designpatternassignmnet\\designpatternassignmnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6ACCD0-EF25-49EF-868C-27EE8EAB5746}|DesignPatternAssignmnet\\DesignPatternAssignmnet.csproj|solutionrelative:designpatternassignmnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6ACCD0-EF25-49EF-868C-27EE8EAB5746}|DesignPatternAssignmnet\\DesignPatternAssignmnet.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\designpatternassignmnet\\designpatternassignmnet\\nocarddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6ACCD0-EF25-49EF-868C-27EE8EAB5746}|DesignPatternAssignmnet\\DesignPatternAssignmnet.csproj|solutionrelative:designpatternassignmnet\\nocarddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6ACCD0-EF25-49EF-868C-27EE8EAB5746}|DesignPatternAssignmnet\\DesignPatternAssignmnet.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\designpatternassignmnet\\designpatternassignmnet\\discountdecider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6ACCD0-EF25-49EF-868C-27EE8EAB5746}|DesignPatternAssignmnet\\DesignPatternAssignmnet.csproj|solutionrelative:designpatternassignmnet\\discountdecider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6ACCD0-EF25-49EF-868C-27EE8EAB5746}|DesignPatternAssignmnet\\DesignPatternAssignmnet.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\designpatternassignmnet\\designpatternassignmnet\\employeecarddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6ACCD0-EF25-49EF-868C-27EE8EAB5746}|DesignPatternAssignmnet\\DesignPatternAssignmnet.csproj|solutionrelative:designpatternassignmnet\\employeecarddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6ACCD0-EF25-49EF-868C-27EE8EAB5746}|DesignPatternAssignmnet\\DesignPatternAssignmnet.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\designpatternassignmnet\\designpatternassignmnet\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6ACCD0-EF25-49EF-868C-27EE8EAB5746}|DesignPatternAssignmnet\\DesignPatternAssignmnet.csproj|solutionrelative:designpatternassignmnet\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6ACCD0-EF25-49EF-868C-27EE8EAB5746}|DesignPatternAssignmnet\\DesignPatternAssignmnet.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\designpatternassignmnet\\designpatternassignmnet\\membershipcarddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6ACCD0-EF25-49EF-868C-27EE8EAB5746}|DesignPatternAssignmnet\\DesignPatternAssignmnet.csproj|solutionrelative:designpatternassignmnet\\membershipcarddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscountDecider.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\DesignPatternAssignmnet\\DesignPatternAssignmnet\\DiscountDecider.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignmnet\\DiscountDecider.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\DesignPatternAssignmnet\\DesignPatternAssignmnet\\DiscountDecider.cs",
+              "RelativeToolTip": "DesignPatternAssignmnet\\DiscountDecider.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:24:47.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoCardDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\DesignPatternAssignmnet\\DesignPatternAssignmnet\\NoCardDiscount.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignmnet\\NoCardDiscount.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\DesignPatternAssignmnet\\DesignPatternAssignmnet\\NoCardDiscount.cs",
+              "RelativeToolTip": "DesignPatternAssignmnet\\NoCardDiscount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:14:46.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeCardDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\DesignPatternAssignmnet\\DesignPatternAssignmnet\\EmployeeCardDiscount.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignmnet\\EmployeeCardDiscount.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\DesignPatternAssignmnet\\DesignPatternAssignmnet\\EmployeeCardDiscount.cs",
+              "RelativeToolTip": "DesignPatternAssignmnet\\EmployeeCardDiscount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:10:58.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MembershipCardDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\DesignPatternAssignmnet\\DesignPatternAssignmnet\\MembershipCardDiscount.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignmnet\\MembershipCardDiscount.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\DesignPatternAssignmnet\\DesignPatternAssignmnet\\MembershipCardDiscount.cs",
+              "RelativeToolTip": "DesignPatternAssignmnet\\MembershipCardDiscount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:07:56.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\DesignPatternAssignmnet\\DesignPatternAssignmnet\\IDiscount.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignmnet\\IDiscount.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\DesignPatternAssignmnet\\DesignPatternAssignmnet\\IDiscount.cs",
+              "RelativeToolTip": "DesignPatternAssignmnet\\IDiscount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:06:05.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\DesignPatternAssignmnet\\DesignPatternAssignmnet\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatternAssignmnet\\Program.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\DesignPatternAssignmnet\\DesignPatternAssignmnet\\Program.cs",
+              "RelativeToolTip": "DesignPatternAssignmnet\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T03:56:11.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
